@@ -17,3 +17,6 @@ You don't, really, it's just for me.
 Just me again.
 ## License
 You really have no reason to use this repository unless you're me, so it's licensed to me.
+
+## Proofread completed
+2022 01 26
