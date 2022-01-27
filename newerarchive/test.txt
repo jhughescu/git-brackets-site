@@ -6,3 +6,5 @@ I have changed. I have CHANGED.
 I've changed again, despite the new changes to .gitignore
 
 yet another change, although gitignore now has an asterisk
+
+OK, what if I name it specifically?
