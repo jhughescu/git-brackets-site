@@ -16,4 +16,5 @@ Desktop.ini
 newerarchive/
 newerarchive/*
 newerarchive/test.txt
+/newerarchive/test.txt
 .newerarchive/
