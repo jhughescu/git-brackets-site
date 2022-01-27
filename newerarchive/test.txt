@@ -2,3 +2,5 @@
 This file is in a folder with no spaces in the title to see if that makes a difference to how .gitignore works.
 
 I have changed. I have CHANGED.
+
+I've changed again, despite the new changes to .gitignore
