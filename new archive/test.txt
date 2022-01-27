@@ -1,1 +1,0 @@
-I am in "new archive" - I should not be ignored now, but "new archive" will later be added to .gitignore, after which it shoudl be ignored (and hopefully will not be present in the github repo).

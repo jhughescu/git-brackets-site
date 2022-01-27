@@ -11,10 +11,4 @@ Desktop.ini
 # project archives
 /archive/
 /new archive/
-"/new archive/"
 /newerarchive/
-newerarchive/
-newerarchive/*
-newerarchive/test.txt
-/newerarchive/test.txt
-.newerarchive/
