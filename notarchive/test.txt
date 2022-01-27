@@ -1,1 +1,3 @@
 I am in the fake archive, I should NOT be ignored. DO NOT IGNORE ME.
+
+Adding a line to this file just to enable a commit.
