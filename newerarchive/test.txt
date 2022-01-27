@@ -1,2 +1,4 @@
 "new archive" still exists in the GitHub repo, so isn't being ignored as expected (although it is greyed out in Brackets...).
 This file is in a folder with no spaces in the title to see if that makes a difference to how .gitignore works.
+
+I have changed. I have CHANGED.
